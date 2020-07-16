@@ -1,0 +1,32 @@
+_repo: Selected-Essays-of-Plutarch-Vol-I_62618
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tucker, T. G. (Thomas George)
+    alias: Tucker, Thomas George
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '4683'
+    url: http://www.gutenberg.org/2009/agents/4683
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_George_Tucker
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: https://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_issued: '2020-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Selected Essays of Plutarch, Vol. I.
+url: http://www.gutenberg.org/ebooks/62618
